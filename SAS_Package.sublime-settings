@@ -1,0 +1,9 @@
+{
+	"err-regx": "(^(error|warning:)|uninitialized|[^l]remerge|Invalid data for)(?! (the .{4,15} product with which|your system is scheduled|will be expiring soon, and|this upcoming expiration.|information on your warning period.))",
+	"sas-args":
+	[
+		"-nologo",
+		"-noovp"
+	],
+	"sas-path": "C:\\Users\\mackcd1\\AppData\\Local\\Microsoft\\AppV\\Client\\Integration\\518575B4-F54F-4F1D-87BB-13A27BE68B4C\\Root\\VFS\\ProgramFilesX64\\SASHome\\SASFoundation\\9.4\\sas.exe"
+}

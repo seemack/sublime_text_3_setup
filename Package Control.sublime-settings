@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AlignTab",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"ChangeQuotes",
+		"Color Highlighter",
+		"DiffView",
+		"FileSystem Autocompletion",
+		"Frontend Light Color Scheme",
+		"GitSavvy",
+		"HexViewer",
+		"Highlight Dodgy Chars",
+		"Indent XML",
+		"Package Control",
+		"Pretty JSON",
+		"SAS Programming",
+		"SideBarEnhancements",
+		"Sublime Tutor",
+		"Terminal",
+		"Theme - itg.flat"
+	]
+}

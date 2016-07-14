@@ -1,0 +1,26 @@
+[
+	{	"keys":	["alt+w"],
+		"command": "toggle_setting",
+		"args":
+		{
+			"setting": "word_wrap"
+		}
+	},
+	{ "keys": ["alt+s"],
+	  "command": "toggle_in_selection",
+    "context": [
+    	{"key": "panel", "operand": "replace"},
+    	{"key": "panel_has_focus"}
+    ]
+	},
+	{ "keys": ["alt+l"],
+		"command": "set_file_type",
+		"args": {"syntax": "Packages/SAS/SAS Log.tmLanguage" }
+	},
+	{ "keys": ["ctrl+shift+'"], "command": "change_quotes" },
+	{ "keys": ["alt+m"], "command": "toggle_minimap" },
+	{ "keys": ["ctrl+v"], "command": "paste_and_indent" },
+	{ "keys": ["ctrl+shift+v"], "command": "paste" },
+	{ "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
+	{ "keys": ["f5"], "command": "refresh_folder_list" }
+]
